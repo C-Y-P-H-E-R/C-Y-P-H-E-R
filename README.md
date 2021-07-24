@@ -7,8 +7,8 @@
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Data Structures, Web designing and Algorithms.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
-- 📜 &nbsp; <a href="https://drive.google.com/file/d/17QmO1e1vwdrZ5HWQNSCEoq0y03ePC9-b/view?usp=sharing">My Resume</a>
-- 🔗 &nbsp; <a href="https://kush-portfolio.netlify.app/">My Portfolio</a>
+- 📜 &nbsp; this is my resume : <a href="https://drive.google.com/file/d/17QmO1e1vwdrZ5HWQNSCEoq0y03ePC9-b/view?usp=sharing">my resume</a>
+- 🔗 &nbsp; this is my portfolio : <a href="https://kush-portfolio.netlify.app/">my portfolio</a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
