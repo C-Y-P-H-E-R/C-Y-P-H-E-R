@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information Technology at Indian Institute of Information Technology, Una.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
+- 💼 &nbsp; Working as a Full Stack intern at Innovians Technologies.
 - 🌱 &nbsp; Learning more about Data Structures, Web designing and Algorithms.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 - 📜 &nbsp; this is my resume : <a href="https://drive.google.com/file/d/17QmO1e1vwdrZ5HWQNSCEoq0y03ePC9-b/view?usp=sharing">my resume</a>
