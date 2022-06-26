@@ -51,4 +51,5 @@
 <a href="https://www.linkedin.com/in/kushagrasharmaofficial/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kushagra%20sharma%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/Hogg_word/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Hogg_word-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:quasarkid123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-quasarkid123@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://twitter.com/EnviedKushagra"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-EnviedKushagra-blue?style=flat-square&logo=twitter"></a>
 </p>
